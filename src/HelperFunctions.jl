@@ -1,3 +1,5 @@
+using ITensors
+
 function assemble_sites(order::AbstractString, pools;
     rename=Dict{String,String}(),
 )

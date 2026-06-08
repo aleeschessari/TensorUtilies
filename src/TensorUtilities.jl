@@ -1,8 +1,5 @@
 module TensorUtilities
 
-using ITensors
-using ITensorMPS
-
 # Export functions from submodules
 export
     # Index Management
