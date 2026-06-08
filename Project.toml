@@ -4,8 +4,8 @@ authors = ["Alessandro"]
 version = "0.1.0"
 
 [deps]
-ITensors = "9136182c-28ba-11e9-034c-6ecca0184466"
-ITensorMPS = "8d3108e4-a69b-4ced-816b-dcd3f85bd892"
+ITensors = "9136182c-28ba-11e9-034c-db9fb085ebd5"
+ITensorMPS = "0d1a4710-d33b-49a5-8f18-73bdf49b47e2"
 
 [compat]
 julia = "^1.9"
